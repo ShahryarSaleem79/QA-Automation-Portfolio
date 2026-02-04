@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Flaky Tests",
+    "matchedStatuses": ["broken"]
+	"messageRegex": ".*FlakyTestException.*"
+  },
+  {
+    "name": "Known Issues",
+    "messageRegex": ".*NullPointerException.*"
+	"messageRegex": ".*NPE Exception.*"
+  }
+  [
+    {
+      "name": "Assertion Failures",
+      "matchedStatuses": ["failed"],
+      "messageRegex": ".*AssertionError.*"
+    },
+    {
+      "name": "Element Not Found",
+      "matchedStatuses": ["failed"],
+      "messageRegex": ".*NoSuchElementException.*"
+    },
+    {
+      "name": "Timeout Issues",
+      "matchedStatuses": ["failed"],
+      "messageRegex": ".*TimeoutException.*"
+    },
+    {
+      "name": "Known Bugs",
+      "matchedStatuses": ["failed"],
+      "traceRegex": ".*KNOWN_BUG.*"
+    },
+    {
+      "name": "Infrastructure Issues",
+      "matchedStatuses": ["broken"],
+      "messageRegex": ".*Connection.*|.*Server.*|.*503.*"
+    }
+  ]
+]

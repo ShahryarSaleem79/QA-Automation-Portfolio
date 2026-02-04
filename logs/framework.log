@@ -1,0 +1,238 @@
+2026-02-02 12:57:31 INFO  LoginPageTest:22 - Setting up the test environment
+2026-02-02 12:57:36 INFO  LoginPageTest:31 - Tearing down the test environment
+2026-02-02 12:57:37 INFO  LoginPageTest:22 - Setting up the test environment
+2026-02-02 12:57:40 INFO  LoginPageTest:31 - Tearing down the test environment
+2026-02-02 13:05:24 INFO  LoginPageTest:22 - Setting up the test environment
+2026-02-02 13:05:33 INFO  LoginPageTest:31 - Tearing down the test environment
+2026-02-02 13:05:34 INFO  LoginPageTest:22 - Setting up the test environment
+2026-02-02 13:05:38 INFO  LoginPageTest:31 - Tearing down the test environment
+2026-02-02 13:06:52 INFO  LoginPageTest:22 - Setting up the test environment
+2026-02-02 13:06:57 INFO  LoginPageTest:31 - Tearing down the test environment
+2026-02-02 13:06:57 INFO  LoginPageTest:22 - Setting up the test environment
+2026-02-02 13:07:01 INFO  LoginPageTest:31 - Tearing down the test environment
+2026-02-02 13:11:29 INFO  LoginPageTest:22 - Setting up the test environment
+2026-02-02 13:11:35 INFO  LoginPageTest:31 - Tearing down the test environment
+2026-02-02 13:11:35 INFO  LoginPageTest:22 - Setting up the test environment
+2026-02-02 13:11:40 INFO  LoginPageTest:31 - Tearing down the test environment
+2026-02-02 13:17:26 INFO  LoginPageTest:22 - Setting up the test environment
+2026-02-02 13:17:31 INFO  LoginPageTest:38 - entering invalid username
+2026-02-02 13:17:31 INFO  LoginPageTest:40 - entering invalid password
+2026-02-02 13:17:32 INFO  LoginPageTest:42 - clicking login button
+2026-02-02 13:17:32 INFO  LoginPageTest:46 - Invalid login test executed
+2026-02-02 13:17:32 INFO  LoginPageTest:31 - Tearing down the test environment
+2026-02-02 13:17:32 INFO  LoginPageTest:22 - Setting up the test environment
+2026-02-02 13:17:35 INFO  LoginPageTest:23 - entering valid username
+2026-02-02 13:17:35 INFO  LoginPageTest:25 - entering valid password
+2026-02-02 13:17:36 INFO  LoginPageTest:27 - clicking login button
+2026-02-02 13:17:36 INFO  LoginPageTest:31 - Valid login test executed
+2026-02-02 13:17:36 INFO  LoginPageTest:31 - Tearing down the test environment
+2026-02-02 13:26:54 INFO  LoginPageTest:22 - Setting up the test environment
+2026-02-02 13:26:59 INFO  LoginPageTest:23 - entering valid username
+2026-02-02 13:27:00 INFO  LoginPageTest:25 - entering valid password
+2026-02-02 13:27:01 INFO  LoginPageTest:27 - clicking login button
+2026-02-02 13:27:02 INFO  LoginPageTest:31 - Valid login test executed
+2026-02-02 13:27:02 INFO  LoginPageTest:31 - Tearing down the test environment
+2026-02-02 13:27:03 INFO  LoginPageTest:22 - Setting up the test environment
+2026-02-02 13:27:06 INFO  LoginPageTest:38 - entering invalid username
+2026-02-02 13:27:07 INFO  LoginPageTest:40 - entering invalid password
+2026-02-02 13:27:07 INFO  LoginPageTest:42 - clicking login button
+2026-02-02 13:27:08 INFO  LoginPageTest:46 - Invalid login test executed
+2026-02-02 13:27:08 INFO  LoginPageTest:31 - Tearing down the test environment
+2026-02-02 13:33:08 INFO  LoginPageTest:22 - Setting up the test environment
+2026-02-02 13:33:13 INFO  LoginPageTest:23 - entering valid username
+2026-02-02 13:33:14 INFO  LoginPageTest:25 - entering valid password
+2026-02-02 13:33:14 INFO  LoginPageTest:27 - clicking login button
+2026-02-02 13:33:15 INFO  LoginPageTest:31 - Valid login test executed
+2026-02-02 13:33:15 INFO  LoginPageTest:31 - Tearing down the test environment
+2026-02-02 13:33:16 INFO  LoginPageTest:22 - Setting up the test environment
+2026-02-02 13:33:18 INFO  LoginPageTest:38 - entering invalid username
+2026-02-02 13:33:19 INFO  LoginPageTest:40 - entering invalid password
+2026-02-02 13:33:19 INFO  LoginPageTest:42 - clicking login button
+2026-02-02 13:33:20 WARN  RetryAnalyzer:17 - Retrying test: testInvalidLogin | Attempt: 1
+2026-02-02 13:33:20 INFO  LoginPageTest:31 - Tearing down the test environment
+2026-02-02 13:33:20 INFO  LoginPageTest:22 - Setting up the test environment
+2026-02-02 13:33:23 INFO  LoginPageTest:38 - entering invalid username
+2026-02-02 13:33:23 INFO  LoginPageTest:40 - entering invalid password
+2026-02-02 13:33:23 INFO  LoginPageTest:42 - clicking login button
+2026-02-02 13:33:24 INFO  LoginPageTest:31 - Tearing down the test environment
+2026-02-02 13:38:39 INFO  LoginPageTest:22 - Setting up the test environment
+2026-02-02 13:38:51 INFO  LoginPageTest:23 - entering valid username
+2026-02-02 13:38:53 INFO  LoginPageTest:25 - entering valid password
+2026-02-02 13:38:54 INFO  LoginPageTest:27 - clicking login button
+2026-02-02 13:38:58 INFO  LoginPageTest:31 - Valid login test executed
+2026-02-02 13:38:58 INFO  LoginPageTest:31 - Tearing down the test environment
+2026-02-02 13:39:01 INFO  LoginPageTest:22 - Setting up the test environment
+2026-02-02 13:39:06 INFO  LoginPageTest:38 - entering invalid username
+2026-02-02 13:39:07 INFO  LoginPageTest:40 - entering invalid password
+2026-02-02 13:39:08 INFO  LoginPageTest:42 - clicking login button
+2026-02-02 13:39:08 WARN  RetryAnalyzer:17 - Retrying test: testInvalidLogin | Attempt: 1
+2026-02-02 13:39:08 INFO  LoginPageTest:31 - Tearing down the test environment
+2026-02-02 13:39:09 INFO  LoginPageTest:22 - Setting up the test environment
+2026-02-02 13:39:12 INFO  LoginPageTest:38 - entering invalid username
+2026-02-02 13:39:13 INFO  LoginPageTest:40 - entering invalid password
+2026-02-02 13:39:13 INFO  LoginPageTest:42 - clicking login button
+2026-02-02 13:39:14 INFO  LoginPageTest:31 - Tearing down the test environment
+2026-02-02 13:49:22 INFO  LoginPageTest:23 - Setting up the test environment
+2026-02-02 13:49:31 INFO  LoginPageTest:23 - entering valid username
+2026-02-02 13:49:31 INFO  LoginPageTest:25 - entering valid password
+2026-02-02 13:49:32 INFO  LoginPageTest:27 - clicking login button
+2026-02-02 13:49:32 INFO  LoginPageTest:31 - Valid login test executed
+2026-02-02 13:49:32 INFO  LoginPageTest:32 - Tearing down the test environment
+2026-02-02 13:49:33 INFO  LoginPageTest:23 - Setting up the test environment
+2026-02-02 13:49:38 INFO  LoginPageTest:38 - entering invalid username
+2026-02-02 13:49:39 INFO  LoginPageTest:40 - entering invalid password
+2026-02-02 13:49:40 INFO  LoginPageTest:42 - clicking login button
+2026-02-02 13:49:40 WARN  RetryAnalyzer:17 - Retrying test: testInvalidLogin | Attempt: 1
+2026-02-02 13:49:40 INFO  LoginPageTest:32 - Tearing down the test environment
+2026-02-02 13:49:41 INFO  LoginPageTest:23 - Setting up the test environment
+2026-02-02 13:49:45 INFO  LoginPageTest:38 - entering invalid username
+2026-02-02 13:49:45 INFO  LoginPageTest:40 - entering invalid password
+2026-02-02 13:49:46 INFO  LoginPageTest:42 - clicking login button
+2026-02-02 13:49:47 INFO  LoginPageTest:32 - Tearing down the test environment
+2026-02-02 13:59:38 INFO  E2ETest:23 - Setting up the test environment
+2026-02-02 13:59:43 INFO  HomePage:20 - Searching for product: Laptop
+2026-02-02 13:59:43 INFO  E2ETest:32 - Tearing down the test environment
+2026-02-02 13:59:44 INFO  LoginPageTest:23 - Setting up the test environment
+2026-02-02 13:59:47 INFO  LoginPageTest:23 - entering valid username
+2026-02-02 13:59:48 INFO  LoginPageTest:25 - entering valid password
+2026-02-02 13:59:48 INFO  LoginPageTest:27 - clicking login button
+2026-02-02 13:59:49 INFO  LoginPageTest:31 - Valid login test executed
+2026-02-02 13:59:49 INFO  LoginPageTest:32 - Tearing down the test environment
+2026-02-02 13:59:50 INFO  LoginPageTest:23 - Setting up the test environment
+2026-02-02 13:59:53 INFO  LoginPageTest:38 - entering invalid username
+2026-02-02 13:59:54 INFO  LoginPageTest:40 - entering invalid password
+2026-02-02 13:59:54 INFO  LoginPageTest:42 - clicking login button
+2026-02-02 13:59:55 INFO  LoginPageTest:32 - Tearing down the test environment
+2026-02-02 16:12:49 INFO  E2ETest:23 - Setting up the test environment
+2026-02-02 16:12:56 INFO  LoginPageTest:23 - Setting up the test environment
+2026-02-02 16:14:15 INFO  E2ETest:23 - Setting up the test environment
+2026-02-02 16:14:25 INFO  LoginPageTest:23 - Setting up the test environment
+2026-02-02 16:15:17 INFO  TestListener:22 - ===== Test Suite Started: UI Tests =====
+2026-02-02 16:15:17 INFO  LoginPageTest:23 - Setting up the test environment
+2026-02-02 16:15:23 INFO  TestListener:32 - ---- Test Started: testValidLogin ----
+2026-02-02 16:15:23 WARN  TestListener:49 - ⚠ Test Skipped: testValidLogin
+2026-02-02 16:15:23 INFO  TestListener:32 - ---- Test Started: testInvalidLogin ----
+2026-02-02 16:15:23 WARN  TestListener:49 - ⚠ Test Skipped: testInvalidLogin
+2026-02-02 16:15:23 INFO  TestListener:27 - ===== Test Suite Finished: UI Tests =====
+2026-02-02 16:19:00 INFO  LoginPageTest:23 - Setting up the test environment
+2026-02-02 16:20:27 INFO  E2ETest:23 - Setting up the test environment
+2026-02-02 16:20:33 INFO  HomePage:20 - Searching for product: Laptop
+2026-02-02 16:20:33 INFO  E2ETest:32 - Tearing down the test environment
+2026-02-02 16:20:34 INFO  LoginPageTest:23 - Setting up the test environment
+2026-02-02 16:20:38 INFO  LoginPageTest:23 - entering valid username
+2026-02-02 16:20:39 INFO  LoginPageTest:25 - entering valid password
+2026-02-02 16:20:39 INFO  LoginPageTest:27 - clicking login button
+2026-02-02 16:20:41 INFO  LoginPageTest:31 - Valid login test executed
+2026-02-02 16:20:41 INFO  LoginPageTest:32 - Tearing down the test environment
+2026-02-02 16:20:41 INFO  LoginPageTest:23 - Setting up the test environment
+2026-02-02 16:20:45 INFO  LoginPageTest:38 - entering invalid username
+2026-02-02 16:20:46 INFO  LoginPageTest:40 - entering invalid password
+2026-02-02 16:20:46 INFO  LoginPageTest:42 - clicking login button
+2026-02-02 16:20:47 INFO  LoginPageTest:32 - Tearing down the test environment
+2026-02-02 16:25:15 INFO  TestListener:22 - ===== Test Suite Started: UI Tests =====
+2026-02-02 16:25:16 INFO  LoginPageTest:23 - Setting up the test environment
+2026-02-02 16:25:21 INFO  TestListener:32 - ---- Test Started: testValidLogin ----
+2026-02-02 16:25:21 INFO  LoginPageTest:23 - entering valid username
+2026-02-02 16:25:22 INFO  LoginPageTest:25 - entering valid password
+2026-02-02 16:25:22 INFO  LoginPageTest:27 - clicking login button
+2026-02-02 16:25:23 INFO  LoginPageTest:31 - Valid login test executed
+2026-02-02 16:25:23 INFO  TestListener:37 - ✔ Test Passed: testValidLogin
+2026-02-02 16:25:23 INFO  LoginPageTest:32 - Tearing down the test environment
+2026-02-02 16:25:25 INFO  LoginPageTest:23 - Setting up the test environment
+2026-02-02 16:25:29 INFO  TestListener:32 - ---- Test Started: testInvalidLogin ----
+2026-02-02 16:25:29 INFO  LoginPageTest:38 - entering invalid username
+2026-02-02 16:25:29 INFO  LoginPageTest:40 - entering invalid password
+2026-02-02 16:25:30 INFO  LoginPageTest:42 - clicking login button
+2026-02-02 16:25:30 INFO  TestListener:37 - ✔ Test Passed: testInvalidLogin
+2026-02-02 16:25:30 INFO  LoginPageTest:32 - Tearing down the test environment
+2026-02-02 16:25:31 INFO  TestListener:27 - ===== Test Suite Finished: UI Tests =====
+2026-02-02 16:26:16 INFO  E2ETest:23 - Setting up the test environment
+2026-02-02 16:26:23 INFO  HomePage:20 - Searching for product: Laptop
+2026-02-02 16:26:23 INFO  E2ETest:32 - Tearing down the test environment
+2026-02-02 16:26:24 INFO  LoginPageTest:23 - Setting up the test environment
+2026-02-02 16:26:27 INFO  LoginPageTest:23 - entering valid username
+2026-02-02 16:26:28 INFO  LoginPageTest:25 - entering valid password
+2026-02-02 16:26:29 INFO  LoginPageTest:27 - clicking login button
+2026-02-02 16:26:31 INFO  LoginPageTest:31 - Valid login test executed
+2026-02-02 16:26:31 INFO  LoginPageTest:32 - Tearing down the test environment
+2026-02-02 16:26:33 INFO  LoginPageTest:23 - Setting up the test environment
+2026-02-02 16:26:37 INFO  LoginPageTest:38 - entering invalid username
+2026-02-02 16:26:38 INFO  LoginPageTest:40 - entering invalid password
+2026-02-02 16:26:39 INFO  LoginPageTest:42 - clicking login button
+2026-02-02 16:26:40 INFO  LoginPageTest:32 - Tearing down the test environment
+2026-02-02 16:33:54 INFO  TestListener:22 - ===== Test Suite Started: UI Tests =====
+2026-02-02 16:33:54 INFO  LoginPageTest:23 - Setting up the test environment
+2026-02-02 16:34:03 INFO  TestListener:32 - ---- Test Started: testValidLogin ----
+2026-02-02 16:34:03 INFO  LoginPageTest:23 - entering valid username
+2026-02-02 16:34:04 INFO  LoginPageTest:25 - entering valid password
+2026-02-02 16:34:05 INFO  LoginPageTest:27 - clicking login button
+2026-02-02 16:34:06 INFO  LoginPageTest:31 - Valid login test executed
+2026-02-02 16:34:06 INFO  TestListener:37 - ✔ Test Passed: testValidLogin
+2026-02-02 16:34:06 INFO  LoginPageTest:32 - Tearing down the test environment
+2026-02-02 16:34:07 INFO  LoginPageTest:23 - Setting up the test environment
+2026-02-02 16:34:12 INFO  TestListener:32 - ---- Test Started: testInvalidLogin ----
+2026-02-02 16:34:12 INFO  LoginPageTest:38 - entering invalid username
+2026-02-02 16:34:13 INFO  LoginPageTest:40 - entering invalid password
+2026-02-02 16:34:14 INFO  LoginPageTest:42 - clicking login button
+2026-02-02 16:34:14 INFO  TestListener:37 - ✔ Test Passed: testInvalidLogin
+2026-02-02 16:34:14 INFO  LoginPageTest:32 - Tearing down the test environment
+2026-02-02 16:34:15 INFO  TestListener:27 - ===== Test Suite Finished: UI Tests =====
+2026-02-02 16:40:49 INFO  TestListener:22 - ===== Test Suite Started: UI Tests =====
+2026-02-02 16:40:49 INFO  LoginPageTest:23 - Setting up the test environment
+2026-02-02 16:40:56 INFO  TestListener:32 - ---- Test Started: testValidLogin ----
+2026-02-02 16:40:56 INFO  LoginPageTest:23 - entering valid username
+2026-02-02 16:40:56 INFO  LoginPageTest:25 - entering valid password
+2026-02-02 16:40:57 INFO  LoginPageTest:27 - clicking login button
+2026-02-02 16:40:58 INFO  LoginPageTest:31 - Valid login test executed
+2026-02-02 16:40:58 INFO  TestListener:37 - ✔ Test Passed: testValidLogin
+2026-02-02 16:40:58 INFO  LoginPageTest:32 - Tearing down the test environment
+2026-02-02 16:40:59 INFO  LoginPageTest:23 - Setting up the test environment
+2026-02-02 16:41:03 INFO  TestListener:32 - ---- Test Started: testInvalidLogin ----
+2026-02-02 16:41:03 INFO  LoginPageTest:38 - entering invalid username
+2026-02-02 16:41:03 INFO  LoginPageTest:40 - entering invalid password
+2026-02-02 16:41:04 INFO  LoginPageTest:42 - clicking login button
+2026-02-02 16:41:04 INFO  TestListener:37 - ✔ Test Passed: testInvalidLogin
+2026-02-02 16:41:04 INFO  LoginPageTest:32 - Tearing down the test environment
+2026-02-02 16:41:05 INFO  TestListener:27 - ===== Test Suite Finished: UI Tests =====
+2026-02-02 16:41:40 INFO  TestListener:22 - ===== Test Suite Started: UI Tests =====
+2026-02-02 16:41:40 INFO  LoginPageTest:23 - Setting up the test environment
+2026-02-02 16:41:46 INFO  TestListener:32 - ---- Test Started: testValidLogin ----
+2026-02-02 16:41:46 INFO  LoginPageTest:23 - entering valid username
+2026-02-02 16:41:47 INFO  LoginPageTest:25 - entering valid password
+2026-02-02 16:41:47 INFO  LoginPageTest:27 - clicking login button
+2026-02-02 16:41:48 INFO  LoginPageTest:31 - Valid login test executed
+2026-02-02 16:41:48 INFO  TestListener:37 - ✔ Test Passed: testValidLogin
+2026-02-02 16:41:48 INFO  LoginPageTest:32 - Tearing down the test environment
+2026-02-02 16:41:49 INFO  LoginPageTest:23 - Setting up the test environment
+2026-02-02 16:41:52 INFO  TestListener:32 - ---- Test Started: testInvalidLogin ----
+2026-02-02 16:41:52 INFO  LoginPageTest:38 - entering invalid username
+2026-02-02 16:41:53 INFO  LoginPageTest:40 - entering invalid password
+2026-02-02 16:41:54 INFO  LoginPageTest:42 - clicking login button
+2026-02-02 16:41:54 INFO  TestListener:37 - ✔ Test Passed: testInvalidLogin
+2026-02-02 16:41:54 INFO  LoginPageTest:32 - Tearing down the test environment
+2026-02-02 16:41:55 INFO  TestListener:27 - ===== Test Suite Finished: UI Tests =====
+2026-02-02 17:27:39 INFO  TestListener:22 - ===== Test Suite Started: UI Tests =====
+2026-02-02 17:27:39 INFO  LoginPageTest:23 - Setting up the test environment
+2026-02-02 17:27:39 INFO  LoginPageTest:23 - Setting up the test environment
+2026-02-02 17:27:55 INFO  TestListener:32 - ---- Test Started: testInvalidLogin ----
+2026-02-02 17:27:55 WARN  TestListener:49 - ⚠ Test Skipped: testInvalidLogin
+2026-02-02 17:27:55 INFO  TestListener:32 - ---- Test Started: testValidLogin ----
+2026-02-02 17:27:55 WARN  TestListener:49 - ⚠ Test Skipped: testValidLogin
+2026-02-02 17:27:55 INFO  TestListener:27 - ===== Test Suite Finished: UI Tests =====
+2026-02-02 17:29:07 INFO  TestListener:22 - ===== Test Suite Started: UI Tests =====
+2026-02-02 17:29:08 INFO  LoginPageTest:23 - Setting up the test environment
+2026-02-02 17:29:08 INFO  LoginPageTest:23 - Setting up the test environment
+2026-02-02 17:29:16 INFO  TestListener:32 - ---- Test Started: testInvalidLogin ----
+2026-02-02 17:29:16 INFO  TestListener:32 - ---- Test Started: testValidLogin ----
+2026-02-02 17:29:16 INFO  LoginPageTest:38 - entering invalid username
+2026-02-02 17:29:16 INFO  LoginPageTest:23 - entering valid username
+2026-02-02 17:29:18 INFO  LoginPageTest:25 - entering valid password
+2026-02-02 17:29:18 INFO  LoginPageTest:27 - clicking login button
+2026-02-02 17:29:19 INFO  LoginPageTest:40 - entering invalid password
+2026-02-02 17:29:19 INFO  LoginPageTest:31 - Valid login test executed
+2026-02-02 17:29:19 INFO  TestListener:37 - ✔ Test Passed: testValidLogin
+2026-02-02 17:29:19 INFO  LoginPageTest:32 - Tearing down the test environment
+2026-02-02 17:29:20 INFO  LoginPageTest:42 - clicking login button
+2026-02-02 17:29:21 INFO  TestListener:37 - ✔ Test Passed: testInvalidLogin
+2026-02-02 17:29:21 INFO  LoginPageTest:32 - Tearing down the test environment
+2026-02-02 17:29:22 INFO  TestListener:27 - ===== Test Suite Finished: UI Tests =====
