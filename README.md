@@ -79,7 +79,8 @@ Allure Reports (allure-results)
 
 To generate Allure report locally:
 allure serve allure-results
-
+## 📊 Live Allure Report  
+🔗 https://ShahryarSaleem79.github.io/QA-Automation-Portfolio/
 
 ------------------------------------------------------
 🔄 CI/CD Integration
