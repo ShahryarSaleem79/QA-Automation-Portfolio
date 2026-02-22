@@ -79,6 +79,8 @@ Allure Reports (allure-results)
 
 To generate Allure report locally:
 allure serve allure-results
+
+
 ------------------------------------------------------
 🔄 CI/CD Integration
 
