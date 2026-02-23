@@ -79,6 +79,9 @@ Allure Reports (allure-results)
 
 To generate Allure report locally:
 allure serve allure-results
+## 📊 Live Allure Report  
+🔗 https://ShahryarSaleem79.github.io/QA-Automation-Portfolio/
+
 ------------------------------------------------------
 🔄 CI/CD Integration
 
@@ -93,7 +96,10 @@ GitLab CI
 Azure DevOps
 
 Typical CI flow:
-Code Push → Build Docker Image → Run Container → Execute Tests → Publish Reports
+CI Trigger (GitHub Actions) - Code Push to master → GitHub Actions triggered → Ubuntu runner starts 
+CI Pipeline Execution - checkout code → Build Docker Image → Run Container → Execute Tests 
+Report Generation - Tests execute → Allure results generated (JSON files) → Allure CLI generates HTML report → HTML Report displayed to GitHub Pages
+[![Docker UI Automation CI](https://github.com/ShahryarSaleem79/QA-Automation-Portfolio/actions/workflows/ci.yml/badge.svg)](https://github.com/ShahryarSaleem79/QA-Automation-Portfolio/actions/workflows/ci.yml)
 -----------------------------------------------------
 Design Principles
 
