@@ -13,6 +13,9 @@ public class DriverFactory {
 	private static ThreadLocal<WebDriver> driver = new ThreadLocal<>();
 
     public static WebDriver getDriver() {
+    	if (driver.get() == null) {
+            throw new IllegalStateException("Driver is not initialized. Call initDriver() first.");
+        }
         return driver.get();
     }
 
@@ -22,7 +25,7 @@ public class DriverFactory {
 
         switch(browser.toLowerCase()) {
         case "chrome":
-        				WebDriverManager.chromedriver().setup();
+        	WebDriverManager.chromedriver().setup();
 			ChromeOptions options = new ChromeOptions();
 			if (headless) {
 				options.addArguments("--headless=new","--no-sandbox","--disable-dev-shm-usage","--window-size=1920,1080");
@@ -36,9 +39,10 @@ public class DriverFactory {
         	FirefoxOptions firefoxOptions = new FirefoxOptions();
         	if (headless) {
 				firefoxOptions.addArguments("--headless");
-				driver.set(new FirefoxDriver(firefoxOptions));
-                break;
+				
         	}
+        	driver.set(new FirefoxDriver(firefoxOptions));
+            break;
 
          default:
                 throw new RuntimeException("Unsupported browser: " + browser);
